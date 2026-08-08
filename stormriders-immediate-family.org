@@ -1,0 +1,38 @@
+#+TITLE: stormrider's immediate family
+#+AUTHOR: stormrider
+#+DUNSEL: this just touches the file to trigger a rebuild: flip
+#+HTML_HEAD: <link rel="icon" href="https://stormrider.io/emacs-dragon.png">
+
+* photos of us all together
+Click on any photo for a larger image.
+
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family1.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family1.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family2.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family2.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family3.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family3.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family4.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family4.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family5.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family5.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family7.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family7.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family8.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family8.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family9.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family9.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family12.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family12.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family13.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family13.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family16.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family16.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family18.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family18.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family19.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family19.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family20.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family20.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family21.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family21.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family22.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family22.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family23.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family23.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family24.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family24.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family25.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family25.gif]]
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family26.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family26.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family30.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family30.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family31.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family31.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family32.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family32.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family33.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family33.gif]] 
+[[https://stormrider.io/images/bill-sharan-family/bill-sharan-family34.jpg][https://stormrider.io/images/bill-sharan-family/thumbs/bill-sharan-family34.gif]]
+[[https://stormrider.io/images/bills-kids/bills-kids100.jpg][https://stormrider.io/images/bills-kids/thumbs/bills-kids100.gif]] 
+[[https://stormrider.io/images/bills-kids/bills-kids110.jpg][https://stormrider.io/images/bills-kids/thumbs/bills-kids110.gif]]
+[[https://stormrider.io/images/bills-kids/bills-kids111.jpg][https://stormrider.io/images/bills-kids/thumbs/bills-kids111.gif]] 
+[[https://stormrider.io/images/bills-kids/bills-kids112.jpg][https://stormrider.io/images/bills-kids/thumbs/bills-kids112.gif]] 
+[[https://stormrider.io/images/bills-kids/bills-kids113.jpg][https://stormrider.io/images/bills-kids/thumbs/bills-kids113.gif]]
