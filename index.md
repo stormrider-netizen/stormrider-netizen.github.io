@@ -1,4 +1,4 @@
-<em><small>@stormrider-netizen.github.io</small></em>
+[Home](https://stormrider-netizen.github.io) ~ 
 [Email Me](mailto:williamowear@gmail.com)
 
 
