@@ -1,5 +1,6 @@
 <em><small>@stormrider-netizen.github.io</small></em>
-<a mailto="williamowear@gmail.com">e-mail me</a>
+[Email Me](mailto:williamowear@gmail.com)
+
 
 System operational.
 
