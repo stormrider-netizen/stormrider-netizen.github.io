@@ -1,6 +1,11 @@
+[Home](https://stormrider-netizen.github.io) ~ 
+[Email Me](mailto:williamowear@gmail.com) ~
+[Credo](https://stormrider-netizen.github.io/credo) ~ 
+[About](https://stormrider-netizen.github.io/about)
+
 *a long time ago, in an irc far, far away:  
 **@ack:** tables are 90% of my use cases for org mode  
-**@stormrider:** life is 90% of my uses cases for org mode
+**@stormrider:** life is 90% of my uses cases for org mode*
 
 There's a story that's gone around MIT forever. In case you didn't know, 
 a lot of the computer revolution began with the Tech Model Railroad Club 
