@@ -2,7 +2,8 @@
 [Email Me](mailto:williamowear@gmail.com) ~
 [Credo](https://stormrider-netizen.github.io/credo) ~ 
 [About](https://stormrider-netizen.github.io/about) ~
-[Eating](https://stormrider-netizen.github.io/eating)
+[Eating](https://stormrider-netizen.github.io/eating) ~ 
+[Chatronyms](https://stormrider-netizen.github.io/chatronyms)
 
 There's no particular reason why I started trying to change my eating habits at 67 years old, except:
 
