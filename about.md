@@ -3,7 +3,8 @@
 [Credo](https://stormrider-netizen.github.io/credo) ~ 
 [About](https://stormrider-netizen.github.io/about) ~
 [Eating](https://stormrider-netizen.github.io/eating) ~ 
-[Chatronyms](https://stormrider-netizen.github.io/chatronyms)
+[Chatronyms](https://stormrider-netizen.github.io/chatronyms) ~
+[Geekcode](https://stormrider-netizen.github.io/geekcode)
 
 *a long time ago, in an irc far, far away:  
 **@ack:** tables are 90% of my use cases for org mode  
