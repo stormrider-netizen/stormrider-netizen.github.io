@@ -3,7 +3,8 @@
 [Credo](https://stormrider-netizen.github.io/credo) ~ 
 [About](https://stormrider-netizen.github.io/about) ~
 [Eating](https://stormrider-netizen.github.io/eating) ~ 
-[Chatronyms](https://stormrider-netizen.github.io/chatronyms)
+[Chatronyms](https://stormrider-netizen.github.io/chatronyms) ~
+[Geekcode](https://stormrider-netizen.github.io/geekcode)
 
 There's no particular reason why I started trying to change my eating habits at 67 years old, except:
 
