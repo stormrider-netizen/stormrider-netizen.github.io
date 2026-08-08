@@ -1,7 +1,7 @@
 ## Photos of me before college
 Click on any photo for a larger image.
 
-[![Thumbnail Description](images/bills-childhood/thumbs/bills-childhood10.gif)](images/bills-childhood/bills-childhood10.jpg)
+[![Childhood photo thumbnail](images/bills-childhood/thumbs/bills-childhood10.gif)](images/bills-childhood/bills-childhood10.jpg)
 
 
 | [[https://stormrider.io/images/bills-childhood/bills-childhood11.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood11.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood13.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood13.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood14.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood14.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood15.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood15.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood16.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood16.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood17.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood17.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood18.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood18.gif]] | [[https://stormrider.io/images/bills-childhood/bills-childhood19.jpg][https://stormrider.io/images/bills-childhood/thumbs/bills-childhood19.gif]] |	
