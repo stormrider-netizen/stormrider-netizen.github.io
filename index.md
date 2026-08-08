@@ -2,7 +2,8 @@
 [Email Me](mailto:williamowear@gmail.com) ~
 [Credo](https://stormrider-netizen.github.io/credo) ~ 
 [About](https://stormrider-netizen.github.io/about) ~
-[Eating](https://stormrider-netizen.github.io/eating)
+[Eating](https://stormrider-netizen.github.io/eating) ~ 
+[Chatronyms](https://stormrider-netizen.github.io/chatronyms)
 
 Welcome to my home in the global village.
 
