@@ -1,10 +1,5 @@
----
-layout: default
-title: stormrider's terminal
-___
-
 # stormrider's homepage
-@stormrider-netizen.github.io
+<small>@stormrider-netizen.github.io</small>
 
 System operational.
 
