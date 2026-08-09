@@ -5,7 +5,7 @@
 [Eating](https://stormrider-netizen.github.io/eating) ~ 
 [Chatronyms](https://stormrider-netizen.github.io/chatronyms) ~
 [Geekcode](https://stormrider-netizen.github.io/geekcode) ~
-{photos: [Pre-college Bill](https://stormrider-netizen.github.io/bill-pics) # }
+Photos: [Pre-college Bill](https://stormrider-netizen.github.io/bill-pics)
 
 Welcome to my home in the global village.
 
