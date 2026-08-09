@@ -1,5 +1,3 @@
----
-
 [Home](https://stormrider-netizen.github.io) ~
 [Blog](https://stormrider-netizen.github.io/blog) ~
 [Email Me](mailto:williamowear@gmail.com)
