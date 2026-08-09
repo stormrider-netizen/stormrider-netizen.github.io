@@ -6,8 +6,13 @@
 [About](https://stormrider-netizen.github.io/about) ~
 [Eating](https://stormrider-netizen.github.io/eating) ~ 
 [Chatronyms](https://stormrider-netizen.github.io/chatronyms) ~
-[Geekcode](https://stormrider-netizen.github.io/geekcode) ~
+[Geekcode](https://stormrider-netizen.github.io/geekcode)  
+
+---
+
 Photos: [Pre-college Bill](https://stormrider-netizen.github.io/bill-pics)
+
+---
 
 Welcome to my home in the global village.
 
