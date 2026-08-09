@@ -1,10 +1,4 @@
-[Home](https://stormrider-netizen.github.io) ~ 
-[Email Me](mailto:williamowear@gmail.com) ~
-[Credo](https://stormrider-netizen.github.io/credo) ~ 
-[About](https://stormrider-netizen.github.io/about) ~
-[Eating](https://stormrider-netizen.github.io/eating) ~ 
-[Chatronyms](https://stormrider-netizen.github.io/chatronyms) ~
-[Geekcode](https://stormrider-netizen.github.io/geekcode)
+**Sat Aug  8 17:45:45 CDT 2026**
 
 There's no particular reason why I started trying to change my eating habits at 67 years old, except:
 

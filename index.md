@@ -6,7 +6,6 @@
 
 General interest: [Credo](https://stormrider-netizen.github.io/credo) ~ 
 [About](https://stormrider-netizen.github.io/about) ~
-[Eating](https://stormrider-netizen.github.io/eating) ~ 
 [Chatronyms](https://stormrider-netizen.github.io/chatronyms) ~
 [Geekcode](https://stormrider-netizen.github.io/geekcode)  
 
