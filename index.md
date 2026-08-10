@@ -1,5 +1,7 @@
-[Home](https://stormrider-netizen.github.io) ~
+(**To return here, click the big, blue "Stormrider" title above.**)
+
 [Blog](https://stormrider-netizen.github.io/blog) ~
+[Journal](https://stormrider-netizen.github.io/journal) ~
 [Email Me](mailto:williamowear@gmail.com)
 
 ---
