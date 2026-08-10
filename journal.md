@@ -55,3 +55,11 @@ after breakfast, i sat down to finish my emologent, extract a blog/essay from it
 
 ### 10:23 fiddling with writing
 it felt like a good time to continue brainstorming my list of things that need to be in my upcoming sci-fi novel.
+
+### 11:01 consolidating notes
+spent 40 minutes consolidating my initial brainstorming & research on "Our Wiser Sons."  got a "Save the Cat!" beat sheet worked out, but before adding the needed additional characters, so tomorrow i'll have to figure out how to work them into the story.  did a really good job of researching superheterodyne radio and the idea of matching oscillator bleed, which drips back down the antenna, making an otherwise passive listener visible to someone well-schooled in advanced radio and basic orbital mechanics.  gives me the hard sci-fi edge i really need.
+
+resisting the urge to add another, more modern AI on the ground.  the singularity hidden in space since the mid-70s will do just fine; too much is too much.
+
+### 11:07 physical movement break
+time to hop up and do a few dishes, start some laundry, do some mindless mechanical actions.  then i'll come back to jobhunting with a whole different attitude.
