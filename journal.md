@@ -40,3 +40,18 @@ keeping calm and unhurried.  it takes as long as it takes, but it won't take so 
 part of the trick seems to be using friction: keeping the extra cokes in the car or the laundry room, where there's an effort to go get them.  putting social media icons off the phone screen: not removing them, just making them a little hard to access.  that sort of things.
 #### rare value
 i think part of the rare value is recognizing the miracle of time: you have 24 hours every day, but not a minute of that can be wasted in advance.  it is doled out to you one second, one minute at a time, regardless of how you used it yesterday.  there is no particular reason not to keep getting better.
+
+## daily play-by-play (CDT 24hr time)
+### 10:09 summary until now
+woke up a little before the 6:30 alarm, then turned it off and laid there for a few.  groggy from chowing down on half a box of cheese crackers and a bunch of doomscrolling after church last night.  i *really* need to stop doing that; so annoying.  got up, fed the cat, took a shower (since i didn't have one yesterday), but skipped shaving.  i have a love-hate relationship with shaving, but i can't grow a decent beard, and my wife doesn't like them anyway.  put that together with the mustache i had in my twenties, which *i* actually hated, and no thank you; but i don't like shaving.
+
+got dressed but didn't bother to load my pockets.  it's all in my backpack, which comes with me when i leave, and i'm not planning on going much of anywhere today, unless i go to see my wife and her best friend.  (my wife's sort of living with her recently-widowed best friend, and i don't mind -- she's doing a good thing, and she's got her own money at the moment.)
+
+sat down at my computer and started my morning emotional log entry (emologent).  you'll hear me mention that from time to time.  got about halfway and decided it was time to start breakfast.  first, i needed to start the bacon, which i do by loading the bacon on parchment paper on a tray and putting it into a cold oven, which is then set for 400 degrees and 25 minutes.  the pre-heating loop does a good job of cooking the bacon perfectly, even though it doesn't reach 400 degrees until about halfway through.
+
+sat back down until the bacon was done, then fixed scrambled eggs and toast.  ate without looking at anything (phone, news or laptop).  i don't even have a usable TV anywhere, though my wife has one in her room.  i think i let the cat out once, for a few minutes.
+
+after breakfast, i sat down to finish my emologent, extract a blog/essay from it, and post the essay in all the usual places: substack, facebook, linkedin, and my blog on this site.  a couple of more routine housekeeping items, and here i am ready to do whatever like the next right thing.
+
+### 10:23 fiddling with writing
+it felt like a good time to continue brainstorming my list of things that need to be in my upcoming sci-fi novel.
