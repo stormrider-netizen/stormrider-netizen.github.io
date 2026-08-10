@@ -63,3 +63,6 @@ resisting the urge to add another, more modern AI on the ground.  the singularit
 
 ### 11:07 physical movement break
 time to hop up and do a few dishes, start some laundry, do some mindless mechanical actions.  then i'll come back to jobhunting with a whole different attitude.
+
+### 11:32 good break
+not exactly cardio, but a very good heart rate increase and movement break.  those feel important.
