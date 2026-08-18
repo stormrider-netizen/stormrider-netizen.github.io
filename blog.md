@@ -1,3 +1,77 @@
+## Tue Aug 18 10:54:00 CDT 2026
+
+# I serve no techno-gods
+Paper or plastic? Oh, wait, there's only plastic now.
+
+For very many years, I've been in a technology bounce. Grew up on UNIX
+when that's all there was Didn't start switching over until iPods and
+cell phones started to give the real possibility of taking your
+computer with you.
+
+That was when the bounce started.
+
+New tools came along: Palm Pilot, iPod, flip phone, tablets, better
+cell phones, and eventually, the iPhone. And then Android and Galaxy
+followed suit.
+
+In the meantime, lots of prophets of doom jumped into the mix: use
+paper or perish. Specifically, use *my* paper forms, which are
+superior in every way to every other paper form ever created. Glad I
+had already formed my principle of "Distrust all claims of the one
+true way."
+
+The real battle lines appeared about 10 months ago, when I retired.
+Four perfectly good Linux machines covered up my office, but
+I still wanted a Mac, and an iPhone, and an Apple Watch -- the whole
+ecosystem.
+
+And for the last 10 months, I've bounced. Sometimes I felt like I was
+not being true to my **root**s: I should only be using Emacs and
+Unix/Linux. Then I'd be somewhere with just my iPhone and my Watch,
+and need to make a note or send an email. Then I'd want to write and
+publish a book, but my org-mode draft wouldn't convert very well to
+something that Kindle and Apple Books publishing tools could accept.
+
+Back and forth I'd go. I'm gonna follow the Apple way. I'm gonna
+follow the UNIX philosophy and its implied way. Meanwhile, a lot of
+stuff that should have gotten done *didn't* get done.
+
+Somehow, yesterday, when I was doing my morning EMOLOGENT (EMOtional
+LOG ENTry), I realized that I was violating one of the most
+fundamental principles of my own credo: distrust all claims for the
+one true way. I was trying to be a zealot, but it wasn't helping me
+at all.
+
+At the same moment, I realized that I was starting some collaborations
+with folks who want to bring some new command-line tools and training
+systems to the global village. Not really startups, yet, but heading
+in that direction. So putting command-line tools and Emacs completely
+out of my life was pretty stupid, but denying myself the ubiquitous
+convenience of the Apple ecosystem was equally dumb.
+
+That's the moment I decided to be an anti-evangelist, an advocate for
+choosing the combination of technology that works for you, and then
+integrate it in the most useful way. I could join one friend in
+putting together ninety-second command-line videos that give you the
+20% that makes the difference about various UNIX tools. I could join
+the other in creating a tool that validates your command-line
+interface (CLI) against your API and helps you find the most efficient
+path to building a better command line interface.
+
+And, I could take my own path on GumRoad, teaching you how to use your
+Apple toolkit *and* Emacs *and* CLI tools together, harmonizing them
+based on choosing the right tool for every job. And maybe, just maybe,
+offer some instructions on how to make those pieces fit together a
+little more seamlessly. Who knows?
+
+So that's where I am. And I plan to give some free lessons on here,
+now and again, and probably quite a few lessons that require a paid
+subscription to get the advanced modes. This knowledge didn't come
+easy, and it came over a lifetime. It's fair for me to ask for a fair
+price for something valuable.
+
+Stay tuned.
+
 ## Mon Aug 10 09:55:54 CDT 2026
 
 I find myself allowing the day to assemble into whatever shape matches my mind, following the curve of my natural cognitive patterns.  Specifically, I'm not chasing gains or goals, just doing things that seem to have simple value and real meaning.
